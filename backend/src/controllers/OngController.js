@@ -19,11 +19,11 @@ export default {
       email,
       whatsapp,
       city,
-      uf
+      uf,
     });
 
     return res.json({
       id,
     });
-  }
+  },
 };
