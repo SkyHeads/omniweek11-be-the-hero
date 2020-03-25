@@ -2,7 +2,12 @@ import connection from '../database';
 
 export default {
   async index(req, res) {
-    const incidents = await connection('incidents').select('*');
+    const { page = 1 } = req.query;
+
+    const incidents = await connection('incidents')
+      .select('*')
+      .limit(5)
+      .offset((page - 1) * 5);
 
     return res.json(incidents);
   },
