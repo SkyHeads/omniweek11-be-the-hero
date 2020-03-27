@@ -30,6 +30,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     'no-console': ['error', { allow: ['tron'] }],
-    'no-console': 'off'
+    'no-console': 'off',
+    'no-alert': 'off'
   },
 };
