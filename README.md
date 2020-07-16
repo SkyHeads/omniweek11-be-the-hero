@@ -26,3 +26,7 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/bruno-fernandes-517026187/" target="_blank">Bruno Fernandes</a>
+</h4>
