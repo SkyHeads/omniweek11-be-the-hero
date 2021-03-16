@@ -3,30 +3,30 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  🚀 OmniStack Week 11.0
 </h4>
 
 <p align="center">
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technology
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Project
 
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+O BeTheHero is a project that aims to connect people who wish to make monetary contributions to NGOs (non-governmental organizations) that need help.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/bruno-fernandes-517026187/" target="_blank">Bruno Fernandes</a>
+    Done with 💜 by <a href="https://www.linkedin.com/in/bruno-fernandes-517026187/" target="_blank">Bruno Fernandes</a>
 </h4>
